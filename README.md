@@ -1,4 +1,4 @@
-# STARTER-AyalaWang
+# jpa01-AyalaWang
 
 Deployed at: https://jpa01-ayalawang.dokku-02.cs.ucsb.edu/
 
